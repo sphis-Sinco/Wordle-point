@@ -1,0 +1,2 @@
+GAME_NAME = 'Wordle Point'
+GAME_ITERATION = 1
